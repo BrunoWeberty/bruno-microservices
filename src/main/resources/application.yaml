@@ -3,5 +3,5 @@ spring:
     name: greeting-service
 
 greeting-service:
-  greeting: "Olá"
+  greeting: "Ola"
   default-value: "Mundo"

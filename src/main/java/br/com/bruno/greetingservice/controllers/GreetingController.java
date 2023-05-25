@@ -15,7 +15,7 @@ public class GreetingController {
     @Autowired
     private GreetingConfiguration configuration;
 
-    private static final String template = "$s, %s!";
+    private static final String template = "%s, %s!";
     private final AtomicLong counter = new AtomicLong();
 
     @RequestMapping("greeting")
