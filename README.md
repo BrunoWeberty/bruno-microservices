@@ -1,1 +1,1 @@
-# bruno-microservices
+# greeting-services
